@@ -2,9 +2,13 @@ PhD in Mechanical Engineering with experience in tolerance analysis, tolerance a
 
 #### Research
 - An approach for the Inclusion of Loading Conditions in a Polyhedral-Based Method for Early Variation Management (2023)
-- Design of a New Fully Compliant Translational Joint via Straight-Line Motion Mechanism Based Method (2019) [![DOI](https://img.shields.io/badge/DOI-10.1115/DETC2019--97091-black.svg)](https://doi.org/10.1115/DETC2019-97091)
+- Design of a New Fully Compliant Translational Joint via Straight-Line Motion Mechanism Based Method (2019) 
 
-## Research
+## 
+|Year | Paper | DOI |
+|:----|:------|:----|
+|2019|Design of a New Fully Compliant Translational Joint via Straight-Line Motion Mechanism Based Method |[![DOI](https://img.shields.io/badge/DOI-10.1115/DETC2019--97091-black.svg)](https://doi.org/10.1115/DETC2019-97091)|
+
 
 | Paper | DOI |
 |:------|:----|
