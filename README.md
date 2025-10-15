@@ -7,6 +7,9 @@ PhD in Mechanical Engineering with experience in tolerance analysis, tolerance a
 ## 
 |Year | Paper | DOI |
 |:----|:------|:----|
+|2022|Sensitivity analysis for tolerance allocation of over-constrained mechanisms|[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.procir.2022.10.018-black.svg)](https://doi.org/10.1016/j.procir.2022.10.018)|
+|2021|Polyhedral-based Modeling and Algorithms for Tolerancing Analysis|[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.procir.2020.05.195-black.svg)](https://doi.org/10.1016/j.procir.2020.05.195) |
+|2020|Simulating the Respect of a Functional Condition in a Mechanical System with Mobilities|[[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.procir.2020.05.195-black.svg)](https://doi.org/10.1016/j.procir.2020.05.195)|
 |2019|Design of a New Fully Compliant Translational Joint via Straight-Line Motion Mechanism Based Method |[![DOI](https://img.shields.io/badge/DOI-10.1115/DETC2019--97091-black.svg)](https://doi.org/10.1115/DETC2019-97091)|
 
 
