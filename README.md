@@ -22,7 +22,7 @@ PhD in Mechanical Engineering with experience in tolerance analysis, tolerance a
 
 **Title:** Geometrical tolerance allocation and optimization using the prismatic polyhedral approach  
 
-**HAL Link:** [![HAL](https://img.shields.io/badge/HAL-04501194-blue.svg)](https://theses.hal.science/tel-04501194) [![PhD](https://img.shields.io/badge/PhD-Thesis-red.svg)](https://theses.hal.science/tel-04501194)  
+**HAL Link:** [![HAL](https://img.shields.io/badge/HAL-04501194-blue.svg)](https://theses.hal.science/tel-04501194) 
 
 **University:** Université de Bordeaux  
 
