@@ -14,8 +14,7 @@ PhD in Mechanical Engineering with experience in tolerance analysis, tolerance a
 |2019|Design of a New Fully Compliant Translational Joint via Straight-Line Motion Mechanism Based Method |[![DOI](https://img.shields.io/badge/DOI-10.1115/DETC2019--97091-black.svg)](https://doi.org/10.1115/DETC2019-97091)|
 
 #### My Thesis
-
-[![My Thesis](https://your-image-link.com/thumbnail.png)](https://your-university-link-or-pdf.com)
+|2025|Addressing Epistemic Uncertainty in Statistical Tolerance Analysis: Worst-Case Non-Conformity Rate Assessment|[![HAL](https://img.shields.io/badge/HAL-05312883-blue.svg)](https://hal.archives-ouvertes.fr/hal-05312883)|
 
 
 
