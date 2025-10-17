@@ -14,7 +14,14 @@ PhD in Mechanical Engineering with experience in tolerance analysis, tolerance a
 |2019|Design of a New Fully Compliant Translational Joint via Straight-Line Motion Mechanism Based Method |[![DOI](https://img.shields.io/badge/DOI-10.1115/DETC2019--97091-black.svg)](https://doi.org/10.1115/DETC2019-97091)|
 
 #### My Thesis
-|2025|Addressing Epistemic Uncertainty in Statistical Tolerance Analysis: Worst-Case Non-Conformity Rate Assessment|[![HAL](https://img.shields.io/badge/HAL-05312883-blue.svg)](https://hal.archives-ouvertes.fr/hal-05312883)|
+
+**Title:** Geometrical tolerance allocation and optimization using the prismatic polyhedral approach
+**HAL Link:** [![HAL](https://img.shields.io/badge/HAL-04501194-blue.svg)](https://theses.hal.science/tel-04501194) [![PhD](https://img.shields.io/badge/PhD-Thesis-red.svg)](https://theses.hal.science/tel-04501194)  
+**University:** [Université de Bordeaux]  
+**Advisors:** Denis TEISSANDIER and Vincent DELOS
+**Year:** 2023 
+
+
 
 
 
