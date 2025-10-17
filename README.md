@@ -2,8 +2,9 @@ PhD in Mechanical Engineering with experience in tolerance analysis, tolerance a
 
 ### Research
 
-#### 
-|Year | Paper | DOI |
+#### Publications
+
+| Year | Paper | DOI / HAL |
 |:----|:------|:----|
 |2025|Addressing Epistemic Uncertainty in Statistical Tolerance Analysis: Worst-Case Non-Conformity Rate Assessment|[![HAL](https://img.shields.io/badge/HAL-05312883-blue.svg)](https://hal.archives-ouvertes.fr/hal-05312883)|
 |2025|Tolerance allocation by means of the polyhedral based tolerance analysis method|[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.cirpj.2025.04.016-black.svg)](https://doi.org/10.1016/j.cirpj.2025.04.016)|
@@ -13,30 +14,20 @@ PhD in Mechanical Engineering with experience in tolerance analysis, tolerance a
 |2020|Simulating the Respect of a Functional Condition in a Mechanical System with Mobilities|[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.procir.2020.05.195-black.svg)](https://doi.org/10.1016/j.procir.2020.05.195)|
 |2019|Design of a New Fully Compliant Translational Joint via Straight-Line Motion Mechanism Based Method |[![DOI](https://img.shields.io/badge/DOI-10.1115/DETC2019--97091-black.svg)](https://doi.org/10.1115/DETC2019-97091)|
 
-#### My Thesis
+---
 
-**Title:** Geometrical tolerance allocation and optimization using the prismatic polyhedral approach
+### 🎓 My Thesis
+
+<div style="border:2px solid #4A90E2; padding: 15px; border-radius: 10px; background-color:#f5faff">
+
+**Title:** Geometrical tolerance allocation and optimization using the prismatic polyhedral approach  
+
 **HAL Link:** [![HAL](https://img.shields.io/badge/HAL-04501194-blue.svg)](https://theses.hal.science/tel-04501194) [![PhD](https://img.shields.io/badge/PhD-Thesis-red.svg)](https://theses.hal.science/tel-04501194)  
-**University:** [Université de Bordeaux]  
-**Advisors:** Denis TEISSANDIER and Vincent DELOS
-**Year:** 2023 
 
+**University:** Université de Bordeaux  
 
+**Advisors:** Denis TEISSANDIER, Vincent DELOS  
 
+**Year:** 2023  
 
-
-
-<!--
-**sonigarcigo/sonigarcigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
